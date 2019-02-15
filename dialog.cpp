@@ -39,7 +39,7 @@ void Dialog::LoadSettings()
     setting.endGroup();
 
     qDebug() << "Loaded";
-    //dsdfsd
+    //!!!!
 
 }
 
